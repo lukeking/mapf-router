@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Spike generated artifacts (deterministic, regenerate with gen_problem.py)
+benchmarks/**/spike.map
+benchmarks/**/spike.queries
+benchmarks/**/astar
