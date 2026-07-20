@@ -221,3 +221,6 @@ __marimo__/
 benchmarks/**/spike.map
 benchmarks/**/spike.queries
 benchmarks/**/astar
+
+# Session handoff snapshot (local scratch, overwritten each handoff)
+STATE.md
